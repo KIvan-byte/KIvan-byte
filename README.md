@@ -34,7 +34,6 @@ I am a Cybersecurity Specialist 🛡️ and Python Developer.
 
 ---
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KIvan-byte)](https://git.io/streak-stats)
+### :fire: My Stats 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KIvan-byte&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
