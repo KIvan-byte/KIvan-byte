@@ -8,6 +8,13 @@
   <img src="https://komarev.com/ghpvc/?username=KIvan-byte&style=flat-square&color=blue" alt=""/>
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/KIvan-byte/KIvan-byte/raw/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/KIvan-byte/KIvan-byte/raw/output/github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/KIvan-byte/KIvan-byte/raw/output/github-snake.svg" />
+</picture>
+
+
 ---
 
 I am a Cybersecurity Specialist 🛡️ and Python Developer.
