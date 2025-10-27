@@ -48,36 +48,6 @@ Developer with extensive expertise in application development, accessibility com
 - **Impact:** Enterprise-grade password security solution with exceptional UX
 - **Technologies:** Kotlin, Cryptography, Modern UI Framework, Storage APIs
 
-### ⛓️ [Blockchain_File_Manager](https://github.com/KIvan-byte/Blockchain_File_Manager)
-**Distributed Ledger File Management System**
-- **Key Features:**
-  - Implemented blockchain-based file integrity verification
-  - Created comprehensive versioning system with tamper evidence
-  - Designed intuitive file organization with metadata support
-  - Built granular access control with permission management
-- **Impact:** Document management platform ensuring data authenticity and integrity
-- **Technologies:** Blockchain, Modern JS, Secure Storage API, Access Control Framework
-
-### 🔍 [WCAG Compliance Toolkit](https://github.com/KIvan-byte/WCAG_Report)
-**Enterprise Accessibility Testing Framework**
-- **Key Features:**
-  - Built comprehensive WCAG 2.1 criteria assessment tools
-  - Implemented automated testing for common accessibility issues
-  - Created detailed reporting with remediation recommendations
-  - Designed continuous monitoring for accessibility regression
-- **Impact:** Streamlined accessibility compliance for enterprise systems
-- **Technologies:** JavaScript, Node.js, Testing Automation, Report Generation
-
-### 📱 [Telegram Mini Application](https://github.com/KIvan-byte/MiniAppTg)
-**Custom Telegram Application Framework**
-- **Key Features:**
-  - Implemented responsive design for various device formats
-  - Created seamless theme integration with Telegram's ecosystem
-  - Built efficient state management for optimal performance
-  - Designed intuitive user flows optimized for mobile interaction
-- **Impact:** Enhanced user experience within Telegram's application ecosystem
-- **Technologies:** JavaScript, Telegram WebApp API, Modern CSS, State Management
-
 ### 🎬 [Cinema Management System](https://github.com/KIvan-byte/Cinema-site)
 **Comprehensive Theater Management Platform**
 - **Key Features:**
@@ -119,19 +89,6 @@ Developer with extensive expertise in application development, accessibility com
 - **Performance Optimization Specialist**: Achieved significant performance improvements in critical business applications
 - **Blockchain Implementation Lead**: Successfully launched production-ready distributed ledger applications
 
-## 🔭 Additional Projects
-
-### 🌐 [WCAG_report_Generator](https://github.com/KIvan-byte/WCAG_report_Generator)
-**Enterprise Accessibility Reporting Tool**
-- Engineered comprehensive PDF report generation with detailed findings
-- Implemented multi-domain testing capabilities with parallel processing
-- Created customizable reporting templates for various compliance frameworks
-
-### 📊 [Audyt_WCAG_2.1_AA](https://github.com/KIvan-byte/Audyt_WCAG_2.1_AA)
-**Type-Safe Accessibility Framework**
-- Developed comprehensive TypeScript interfaces for accessibility criteria
-- Built systematic testing procedures aligned with WCAG standards
-- Created detailed reporting mechanisms with remediation guidance
 
 ## 📈 GitHub Analytics
 ![KIvan-byte's GitHub stats](https://github-readme-stats.vercel.app/api?username=KIvan-byte&show_icons=true&theme=radical)
